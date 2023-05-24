@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="Round_Robin_Arbiter_Test_Bench_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="Round_Robin_Arbiter_Test_Bench" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="37.001 ns"></ZoomEndTime>
+      <Cursor1Time time="37.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="230"></NameColumnWidth>
+      <ValueColumnWidth column_width="90"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="10" />
+   <wvobject fp_name="/Round_Robin_Arbiter_Test_Bench/clock" type="logic">
+      <obj_property name="ElementShortName">clock</obj_property>
+      <obj_property name="ObjectShortName">clock</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Round_Robin_Arbiter_Test_Bench/reset" type="logic">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Round_Robin_Arbiter_Test_Bench/req3" type="logic">
+      <obj_property name="ElementShortName">req3</obj_property>
+      <obj_property name="ObjectShortName">req3</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Round_Robin_Arbiter_Test_Bench/req2" type="logic">
+      <obj_property name="ElementShortName">req2</obj_property>
+      <obj_property name="ObjectShortName">req2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Round_Robin_Arbiter_Test_Bench/req1" type="logic">
+      <obj_property name="ElementShortName">req1</obj_property>
+      <obj_property name="ObjectShortName">req1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Round_Robin_Arbiter_Test_Bench/req0" type="logic">
+      <obj_property name="ElementShortName">req0</obj_property>
+      <obj_property name="ObjectShortName">req0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Round_Robin_Arbiter_Test_Bench/gra3" type="logic">
+      <obj_property name="ElementShortName">gra3</obj_property>
+      <obj_property name="ObjectShortName">gra3</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Round_Robin_Arbiter_Test_Bench/gra2" type="logic">
+      <obj_property name="ElementShortName">gra2</obj_property>
+      <obj_property name="ObjectShortName">gra2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Round_Robin_Arbiter_Test_Bench/gra1" type="logic">
+      <obj_property name="ElementShortName">gra1</obj_property>
+      <obj_property name="ObjectShortName">gra1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Round_Robin_Arbiter_Test_Bench/gra0" type="logic">
+      <obj_property name="ElementShortName">gra0</obj_property>
+      <obj_property name="ObjectShortName">gra0</obj_property>
+   </wvobject>
+</wave_config>
